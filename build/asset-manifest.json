@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ecommerce-react/static/css/main.73c8dacd.chunk.css",
+    "main.js": "/ecommerce-react/static/js/main.d7d27ebb.chunk.js",
+    "main.js.map": "/ecommerce-react/static/js/main.d7d27ebb.chunk.js.map",
+    "runtime-main.js": "/ecommerce-react/static/js/runtime-main.b4b969d8.js",
+    "runtime-main.js.map": "/ecommerce-react/static/js/runtime-main.b4b969d8.js.map",
+    "static/js/2.de6be461.chunk.js": "/ecommerce-react/static/js/2.de6be461.chunk.js",
+    "static/js/2.de6be461.chunk.js.map": "/ecommerce-react/static/js/2.de6be461.chunk.js.map",
+    "index.html": "/ecommerce-react/index.html",
+    "static/css/main.73c8dacd.chunk.css.map": "/ecommerce-react/static/css/main.73c8dacd.chunk.css.map",
+    "static/js/2.de6be461.chunk.js.LICENSE.txt": "/ecommerce-react/static/js/2.de6be461.chunk.js.LICENSE.txt",
+    "static/media/basket.fe58a027.svg": "/ecommerce-react/static/media/basket.fe58a027.svg",
+    "static/media/delete.e33ca2c9.svg": "/ecommerce-react/static/media/delete.e33ca2c9.svg",
+    "static/media/login.c47b10f3.svg": "/ecommerce-react/static/media/login.c47b10f3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4b969d8.js",
+    "static/js/2.de6be461.chunk.js",
+    "static/css/main.73c8dacd.chunk.css",
+    "static/js/main.d7d27ebb.chunk.js"
+  ]
+}

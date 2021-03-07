@@ -62,7 +62,7 @@ const Productdetail = (props) => {
   return (
     <div>
       <div>
-        {product.length ? (
+        {product.length  && (
           <div className="card-box mb-3 mt-5" style={{ maxWidth: "1100px" }}>
             <div className="row g-0">
               <div className="col-md-4">
@@ -100,8 +100,6 @@ const Productdetail = (props) => {
               </div>
             </div>
           </div>
-        ) : (
-          "Nothing found"
         )}
       </div>
     </div>
